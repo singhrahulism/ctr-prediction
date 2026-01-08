@@ -14,7 +14,7 @@ The system is designed with :
 
 ## Dataset
 
-- **Source**: Avazu CTR Prediction Dataset
+- **Source**: Avazu CTR Prediction Dataset [[download from here](https://www.kaggle.com/competitions/avazu-ctr-prediction/data?select=test.gz)]
 - **Scale**:
   - ~40 million training impressions
   - Highly imbalanced binary target (`click`)
