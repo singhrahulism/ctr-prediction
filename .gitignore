@@ -4,3 +4,7 @@ data/sampled/debug_train.csv
 data/sampled/sample_train.csv
 .DS_Store
 src/__pycache__
+steps.md
+test_predictions.csv
+sample_test.csv
+ctr_*.pkl
