@@ -1,0 +1,6 @@
+data/raw/test.csv
+data/raw/train.csv
+data/sampled/debug_train.csv
+data/sampled/sample_train.csv
+.DS_Store
+src/__pycache__
